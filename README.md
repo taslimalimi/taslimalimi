@@ -10,4 +10,3 @@
 taslimalimi/taslimalimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![65f31b64b491883de7d914b4_home - hero image2](https://github.com/user-attachments/assets/f450d7d8-d42f-4ef9-807b-d0f56903e944)
